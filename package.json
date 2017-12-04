@@ -1,0 +1,16 @@
+{
+  "name": "exact-type",
+  "version": "1.0.0",
+  "description": "To check a variable's exact type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "data",
+    "type"
+  ],
+  "author": "Haitao Xin",
+  "license": "ISC"
+}
